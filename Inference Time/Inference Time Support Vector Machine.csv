@@ -1,0 +1,101 @@
+Model,Num Points,Radius,Kernel,Average Prediction Time (s)
+Random Forest svml_n8r1,8,1,Linear,0.009384438
+Random Forest svml_n8r2,8,2,Linear,0.009212739
+Random Forest svml_n8r3,8,3,Linear,0.009254111
+Random Forest svml_n8r4,8,4,Linear,0.009211799
+Random Forest svml_n8r5,8,5,Linear,0.009145619
+Random Forest svmp_n8r1,8,1,Polynomial,0.009004142
+Random Forest svmp_n8r2,8,2,Polynomial,0.009006532
+Random Forest svmp_n8r3,8,3,Polynomial,0.009047241
+Random Forest svmp_n8r4,8,4,Polynomial,0.008991589
+Random Forest svmp_n8r5,8,5,Polynomial,0.008997237
+Random Forest svmr_n8r1,8,1,Radial Basis Function,0.009654528
+Random Forest svmr_n8r2,8,2,Radial Basis Function,0.009431442
+Random Forest svmr_n8r3,8,3,Radial Basis Function,0.009340843
+Random Forest svmr_n8r4,8,4,Radial Basis Function,0.009306493
+Random Forest svmr_n8r5,8,5,Radial Basis Function,0.009256496
+Random Forest svms_n8r1,8,1,Sigmoid,0.009590767
+Random Forest svms_n8r2,8,2,Sigmoid,0.010113451
+Random Forest svms_n8r3,8,3,Sigmoid,0.010057932
+Random Forest svms_n8r4,8,4,Sigmoid,0.009824182
+Random Forest svms_n8r5,8,5,Sigmoid,0.009911178
+Random Forest svml_n24r1,24,1,Linear,0.025101822
+Random Forest svml_n24r2,24,2,Linear,0.024047244
+Random Forest svml_n24r3,24,3,Linear,0.024103595
+Random Forest svml_n24r4,24,4,Linear,0.02385321
+Random Forest svml_n24r5,24,5,Linear,0.026441566
+Random Forest svmp_n24r1,24,1,Polynomial,0.024961263
+Random Forest svmp_n24r2,24,2,Polynomial,0.023640949
+Random Forest svmp_n24r3,24,3,Polynomial,0.023652371
+Random Forest svmp_n24r4,24,4,Polynomial,0.023624527
+Random Forest svmp_n24r5,24,5,Polynomial,0.026275749
+Random Forest svmr_n24r1,24,1,Radial Basis Function,0.024408274
+Random Forest svmr_n24r2,24,2,Radial Basis Function,0.02415904
+Random Forest svmr_n24r3,24,3,Radial Basis Function,0.024177934
+Random Forest svmr_n24r4,24,4,Radial Basis Function,0.023969475
+Random Forest svmr_n24r5,24,5,Radial Basis Function,0.025545574
+Random Forest svms_n24r1,24,1,Sigmoid,0.024434844
+Random Forest svms_n24r2,24,2,Sigmoid,0.024160225
+Random Forest svms_n24r3,24,3,Sigmoid,0.02428398
+Random Forest svms_n24r4,24,4,Sigmoid,0.024123148
+Random Forest svms_n24r5,24,5,Sigmoid,0.024969728
+Random Forest svml_n48r1,48,1,Linear,0.051492273
+Random Forest svml_n48r2,48,2,Linear,0.046938245
+Random Forest svml_n48r3,48,3,Linear,0.046712074
+Random Forest svml_n48r4,48,4,Linear,0.045839535
+Random Forest svml_n48r5,48,5,Linear,0.045271456
+Random Forest svmp_n48r1,48,1,Polynomial,0.050535274
+Random Forest svmp_n48r2,48,2,Polynomial,0.04618057
+Random Forest svmp_n48r3,48,3,Polynomial,0.047118251
+Random Forest svmp_n48r4,48,4,Polynomial,0.04540172
+Random Forest svmp_n48r5,48,5,Polynomial,0.044992005
+Random Forest svmr_n48r1,48,1,Radial Basis Function,0.048042503
+Random Forest svmr_n48r2,48,2,Radial Basis Function,0.046644586
+Random Forest svmr_n48r3,48,3,Radial Basis Function,0.047591909
+Random Forest svmr_n48r4,48,4,Radial Basis Function,0.046082688
+Random Forest svmr_n48r5,48,5,Radial Basis Function,0.045681159
+Random Forest svms_n48r1,48,1,Sigmoid,0.046470134
+Random Forest svms_n48r2,48,2,Sigmoid,0.046622067
+Random Forest svms_n48r3,48,3,Sigmoid,0.047498014
+Random Forest svms_n48r4,48,4,Sigmoid,0.046007554
+Random Forest svms_n48r5,48,5,Sigmoid,0.045598733
+Random Forest svml_n80r1,80,1,Linear,0.074589935
+Random Forest svml_n80r2,80,2,Linear,0.07480711
+Random Forest svml_n80r3,80,3,Linear,0.074124349
+Random Forest svml_n80r4,80,4,Linear,0.073502576
+Random Forest svml_n80r5,80,5,Linear,0.073676482
+Random Forest svmp_n80r1,80,1,Polynomial,0.074032384
+Random Forest svmp_n80r2,80,2,Polynomial,0.073541313
+Random Forest svmp_n80r3,80,3,Polynomial,0.073410691
+Random Forest svmp_n80r4,80,4,Polynomial,0.072935999
+Random Forest svmp_n80r5,80,5,Polynomial,0.07289557
+Random Forest svmr_n80r1,80,1,Radial Basis Function,0.074737806
+Random Forest svmr_n80r2,80,2,Radial Basis Function,0.075246104
+Random Forest svmr_n80r3,80,3,Radial Basis Function,0.074210939
+Random Forest svmr_n80r4,80,4,Radial Basis Function,0.073735557
+Random Forest svmr_n80r5,80,5,Radial Basis Function,0.073469032
+Random Forest svms_n80r1,80,1,Sigmoid,0.074434197
+Random Forest svms_n80r2,80,2,Sigmoid,0.074276083
+Random Forest svms_n80r3,80,3,Sigmoid,0.073979519
+Random Forest svms_n80r4,80,4,Sigmoid,0.073533292
+Random Forest svms_n80r5,80,5,Sigmoid,0.073197964
+Random Forest svml_n120r1,120,1,Linear,0.109859607
+Random Forest svml_n120r2,120,2,Linear,0.114827056
+Random Forest svml_n120r3,120,3,Linear,0.110064667
+Random Forest svml_n120r4,120,4,Linear,0.114009036
+Random Forest svml_n120r5,120,5,Linear,0.10851777
+Random Forest svmp_n120r1,120,1,Polynomial,0.109200082
+Random Forest svmp_n120r2,120,2,Polynomial,0.117336354
+Random Forest svmp_n120r3,120,3,Polynomial,0.108836687
+Random Forest svmp_n120r4,120,4,Polynomial,0.113836152
+Random Forest svmp_n120r5,120,5,Polynomial,0.108092107
+Random Forest svmr_n120r1,120,1,Radial Basis Function,0.109994787
+Random Forest svmr_n120r2,120,2,Radial Basis Function,0.116614432
+Random Forest svmr_n120r3,120,3,Radial Basis Function,0.109495337
+Random Forest svmr_n120r4,120,4,Radial Basis Function,0.114918568
+Random Forest svmr_n120r5,120,5,Radial Basis Function,0.110028093
+Random Forest svms_n120r1,120,1,Sigmoid,0.109712918
+Random Forest svms_n120r2,120,2,Sigmoid,0.118322064
+Random Forest svms_n120r3,120,3,Sigmoid,0.110288445
+Random Forest svms_n120r4,120,4,Sigmoid,0.114349987
+Random Forest svms_n120r5,120,5,Sigmoid,0.112359382

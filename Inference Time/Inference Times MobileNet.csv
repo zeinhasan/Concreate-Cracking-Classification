@@ -1,0 +1,27 @@
+Model Name,Average Inference Time
+MobileNet_Basic,0.051348756
+MobileNet_Modified075,0.046057123
+MobileNet_Modified076,0.045074296
+MobileNet_Modified077,0.045502495
+MobileNet_Modified078,0.045797747
+MobileNet_Modified079,0.045429309
+MobileNet_Modified080,0.045878207
+MobileNet_Modified081,0.046208771
+MobileNet_Modified082,0.045646962
+MobileNet_Modified083,0.045971964
+MobileNet_Modified084,0.04590984
+MobileNet_Modified085,0.046240966
+MobileNet_Modified086,0.047194231
+MobileNet_Modified087,0.046847306
+MobileNet_Modified088,0.047528648
+MobileNet_Modified089,0.047132632
+MobileNet_Modified090,0.048256529
+MobileNet_Modified091,0.047471966
+MobileNet_Modified092,0.048158544
+MobileNet_Modified093,0.047931176
+MobileNet_Modified094,0.048943808
+MobileNet_Modified095,0.050246381
+MobileNet_Modified096,0.048065043
+MobileNet_Modified097,0.048344421
+MobileNet_Modified098,0.049322572
+MobileNet_Modified099,0.048703693

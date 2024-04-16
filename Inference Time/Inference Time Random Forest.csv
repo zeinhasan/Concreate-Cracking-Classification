@@ -1,0 +1,76 @@
+Model,Num Points,Radius,Criterion,Average Prediction Time (s)
+Random Forest RFG_n8r1,8,1,Gini Index,0.011515312
+Random Forest RFG_n8r2,8,2,Gini Index,0.012678956
+Random Forest RFG_n8r3,8,3,Gini Index,0.011962731
+Random Forest RFG_n8r4,8,4,Gini Index,0.013380922
+Random Forest RFG_n8r5,8,5,Gini Index,0.011674698
+Random Forest RFE_n8r1,8,1,Information Gain,0.011912191
+Random Forest RFE_n8r2,8,2,Information Gain,0.012183347
+Random Forest RFE_n8r3,8,3,Information Gain,0.011954142
+Random Forest RFE_n8r4,8,4,Information Gain,0.012245896
+Random Forest RFE_n8r5,8,5,Information Gain,0.012062655
+Random Forest RFL_n8r1,8,1,Log Loss (Shanon Criterion),0.011601089
+Random Forest RFL_n8r2,8,2,Log Loss (Shanon Criterion),0.011969288
+Random Forest RFL_n8r3,8,3,Log Loss (Shanon Criterion),0.011824032
+Random Forest RFL_n8r4,8,4,Log Loss (Shanon Criterion),0.012290656
+Random Forest RFL_n8r5,8,5,Log Loss (Shanon Criterion),0.011563275
+Random Forest RFG_n24r1,24,1,Gini Index,0.025454938
+Random Forest RFG_n24r2,24,2,Gini Index,0.025318527
+Random Forest RFG_n24r3,24,3,Gini Index,0.025615677
+Random Forest RFG_n24r4,24,4,Gini Index,0.025125467
+Random Forest RFG_n24r5,24,5,Gini Index,0.025222433
+Random Forest RFE_n24r1,24,1,Information Gain,0.0254117
+Random Forest RFE_n24r2,24,2,Information Gain,0.025394185
+Random Forest RFE_n24r3,24,3,Information Gain,0.025420717
+Random Forest RFE_n24r4,24,4,Information Gain,0.025354838
+Random Forest RFE_n24r5,24,5,Information Gain,0.025362202
+Random Forest RFL_n24r1,24,1,Log Loss (Shanon Criterion),0.025407958
+Random Forest RFL_n24r2,24,2,Log Loss (Shanon Criterion),0.02531564
+Random Forest RFL_n24r3,24,3,Log Loss (Shanon Criterion),0.025628102
+Random Forest RFL_n24r4,24,4,Log Loss (Shanon Criterion),0.025154388
+Random Forest RFL_n24r5,24,5,Log Loss (Shanon Criterion),0.025160632
+Random Forest RFG_n48r1,48,1,Gini Index,0.048251897
+Random Forest RFG_n48r2,48,2,Gini Index,0.050496949
+Random Forest RFG_n48r3,48,3,Gini Index,0.048958589
+Random Forest RFG_n48r4,48,4,Gini Index,0.048988938
+Random Forest RFG_n48r5,48,5,Gini Index,0.048120931
+Random Forest RFE_n48r1,48,1,Information Gain,0.047967441
+Random Forest RFE_n48r2,48,2,Information Gain,0.049221533
+Random Forest RFE_n48r3,48,3,Information Gain,0.04840721
+Random Forest RFE_n48r4,48,4,Information Gain,0.04898288
+Random Forest RFE_n48r5,48,5,Information Gain,0.047935952
+Random Forest RFL_n48r1,48,1,Log Loss (Shanon Criterion),0.04818283
+Random Forest RFL_n48r2,48,2,Log Loss (Shanon Criterion),0.049298404
+Random Forest RFL_n48r3,48,3,Log Loss (Shanon Criterion),0.049391023
+Random Forest RFL_n48r4,48,4,Log Loss (Shanon Criterion),0.048613931
+Random Forest RFL_n48r5,48,5,Log Loss (Shanon Criterion),0.048031751
+Random Forest RFG_n80r1,80,1,Gini Index,0.076723167
+Random Forest RFG_n80r2,80,2,Gini Index,0.07934415
+Random Forest RFG_n80r3,80,3,Gini Index,0.07645936
+Random Forest RFG_n80r4,80,4,Gini Index,0.079941273
+Random Forest RFG_n80r5,80,5,Gini Index,0.078618736
+Random Forest RFE_n80r1,80,1,Information Gain,0.076613243
+Random Forest RFE_n80r2,80,2,Information Gain,0.076610192
+Random Forest RFE_n80r3,80,3,Information Gain,0.076437145
+Random Forest RFE_n80r4,80,4,Information Gain,0.0761187
+Random Forest RFE_n80r5,80,5,Information Gain,0.078743802
+Random Forest RFL_n80r1,80,1,Log Loss (Shanon Criterion),0.076892271
+Random Forest RFL_n80r2,80,2,Log Loss (Shanon Criterion),0.078935958
+Random Forest RFL_n80r3,80,3,Log Loss (Shanon Criterion),0.076518878
+Random Forest RFL_n80r4,80,4,Log Loss (Shanon Criterion),0.079629152
+Random Forest RFL_n80r5,80,5,Log Loss (Shanon Criterion),0.078702772
+Random Forest RFG_n120r1,120,1,Gini Index,0.117105346
+Random Forest RFG_n120r2,120,2,Gini Index,0.12156423
+Random Forest RFG_n120r3,120,3,Gini Index,0.114939628
+Random Forest RFG_n120r4,120,4,Gini Index,0.119589558
+Random Forest RFG_n120r5,120,5,Gini Index,0.11393076
+Random Forest RFE_n120r1,120,1,Information Gain,0.117305426
+Random Forest RFE_n120r2,120,2,Information Gain,0.121521164
+Random Forest RFE_n120r3,120,3,Information Gain,0.114870445
+Random Forest RFE_n120r4,120,4,Information Gain,0.119437853
+Random Forest RFE_n120r5,120,5,Information Gain,0.114035949
+Random Forest RFL_n120r1,120,1,Log Loss (Shanon Criterion),0.116800653
+Random Forest RFL_n120r2,120,2,Log Loss (Shanon Criterion),0.120713536
+Random Forest RFL_n120r3,120,3,Log Loss (Shanon Criterion),0.114799717
+Random Forest RFL_n120r4,120,4,Log Loss (Shanon Criterion),0.119533822
+Random Forest RFL_n120r5,120,5,Log Loss (Shanon Criterion),0.114009568
