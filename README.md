@@ -1,5 +1,5 @@
 # Concreate-Cracking-Classification
-Study about Local Binary Pattern Implementation on Concreate Cracking Classification
+Classification Of Digital Images Using MobileNet  Architecture, Local Binary Pattern-Support Vector Machine (LBP-SVM), And Local Binary Pattern-Random Forest (LBP-RF)
 
 # Abstract
 
