@@ -102,4 +102,4 @@ Keywords: Digital Image Classification, MobileNet Convolutional Neural Network, 
 
 [47] Zhou, W., Wang, H. and Wan, Z, 2022, Ore Image Classification Based on Improved CNN, Computers and Electrical Engineering, 99, p.107819, doi: https://doi.org/10.1016/j.compeleceng.2022.107819.  
 
-[48]Zoubir, H., Rguig, M., El Aroussi, M., Chehri, A. and Saadane, R, 2022, Concrete Bridge Crack Image Classification Using Histograms of Oriented Gradients, Uniform Local Binary Patterns, and Kernel Principal Component Analysis. Electronics, 11, 20, p.3357, doi: https://doi.org/10.3390/electronics11203357. 
+[48] Zoubir, H., Rguig, M., El Aroussi, M., Chehri, A. and Saadane, R, 2022, Concrete Bridge Crack Image Classification Using Histograms of Oriented Gradients, Uniform Local Binary Patterns, and Kernel Principal Component Analysis. Electronics, 11, 20, p.3357, doi: https://doi.org/10.3390/electronics11203357. 
