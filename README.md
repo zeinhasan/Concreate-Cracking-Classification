@@ -7,6 +7,13 @@ In recent developments, the presence of machine learning and deep learning in ob
 
 Keywords: Digital Image Classification, MobileNet Convolutional Neural Network, Support Vector Machine (SVM), Random Forest (RF), Local Binary Pattern (LBP)
 
+# Files 
+1. [S-1-2024-462305-abstract.pdf](https://bit.ly/AbstractS1)
+2. [S-1-2024-462305-bibliography.pdf](https://bit.ly/bibliographys1)
+3. [S-1-2024-462305-tableofcontent.pdf](https://bit.ly/TableofContentS1)
+4. [S-1-2024-462305-title.pdf](https://bit.ly/TitleS1)
+* for other file contact the author at : ahmad.habib.hasan@mail.ugm.ac.id or ahmad.habib.hasan.zein@gmail.com
+
 # Citation
 [1] Acharya, T., and Ray, A.K, 2005, Image processing - principles and applications, USA: Wiley-Interscience. 
 
